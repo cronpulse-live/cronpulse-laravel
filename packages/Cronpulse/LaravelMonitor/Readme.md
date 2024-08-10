@@ -24,13 +24,13 @@ Add your job key to your `.env` file:
 MONITOR_JOB_KEY=your-real-job-key
 ```
 
-This job key is essential for authenticating your pings with the monitoring service.
+This job key is essential for authenticating your pings with cronpulse.
 
 ## Usage
 
 ### Basic Monitoring
 
-You can manually ping the monitoring service by using the `Monitor` class. This can be useful for sending status updates about your scheduled jobs.
+You can manually ping cronpulse by using the `Monitor` class. This can be useful for sending status updates about your scheduled jobs.
 
 #### Starting a Job
 
