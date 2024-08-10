@@ -1,6 +1,6 @@
 {
     "name": "cronpulse/laravel-monitor",
-    "description": "A monitoring library for Laravel.",
+    "description": "A cronjob monitoring library for Laravel using Cronpulse.live",
     "authors": [
         {
             "name": "Cronpulse.live",
